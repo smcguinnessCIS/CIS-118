@@ -3,7 +3,7 @@
 
 /*write the class selector for "mfg" here */
 .mfg { 
-  padding: 10 px; 
+  padding: 10px; 
   border: 1px solid black; 
   width: 260px; 
   }
@@ -11,7 +11,7 @@
 
 /* write other class selector examples for our paragraphs */
 .faq { 
-  margin-left: 20 px; 
+  margin-left: 20px; 
   padding-left: 5px; 
   border-left: 2px solid red; 
   }
