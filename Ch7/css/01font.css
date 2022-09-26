@@ -71,6 +71,7 @@ h2 { font-variant: small-caps; }
   or we can give a name: bold
   */
 
+dt { font-weight: bold; }
 
   /* font
   this is our shorthand property where we can set all previous
