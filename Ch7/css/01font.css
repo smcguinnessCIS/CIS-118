@@ -80,3 +80,4 @@ h2 {font-weight: lighter; }
   [ font-style ]   [ font-variant ]   [ font-weight ]  font-size [ /line-height ]  font-family
   */
 
+h2 + p  { font: italic 1.25em/1.4 Georgia, serif; }
