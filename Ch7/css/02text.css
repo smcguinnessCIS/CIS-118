@@ -13,21 +13,20 @@ p,dd { line-height: 1.35em;}
 /* add a line through the text */
 .throughText { text-decoration: line-through; } 
 .underTextNone a { text-decoration: none; }
-.overText  { text-decoration: overline; }
-.underText  { text-decoration: underline; }
+
 
 /* remove a line from under an anchor element */
-
+.underTextNone a { text-decoration: none; }
 
 /* add a line over the text */
-
+.overText  { text-decoration: overline; }
 
 /* add a line under the text */
-
+.underText  { text-decoration: underline; }
 
 
 /* indent the first line of text */
-.textIndent dd  { text-indent: 20px; }
+#textIndent dd  { text-indent: 20px; }
 
 
 /* capitalize, lowercase, uppercase */
