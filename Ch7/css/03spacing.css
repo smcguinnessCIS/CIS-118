@@ -9,7 +9,7 @@
  
  /*line-height*/
  
-blockquote p { line-height: 1.5em; } 
+
 
  
  
@@ -22,6 +22,7 @@ blockquote p { line-height: 1.5em; }
 Step 1
 + Change the font-size to 18px
 ++ Refresh the browser to see the line-height change automatically!
+blockquote p { 18px/1.5; }
 
 Step 2
 + remove the blockquote selector and have only the p selector
