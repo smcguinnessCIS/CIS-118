@@ -6,7 +6,7 @@ p,dd { line-height: 1.35em;}
 /*text-align values: right, center, left or justify */
 
 #textAlign dt { text-align: right; } 
-#textAlign dd { text-align: justify; }  
+#textAlign dd { text-align: inherit; }  
 
 
 /*text-decoration values: line-through, none, overline, underline */
