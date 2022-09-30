@@ -29,7 +29,9 @@ body{
 #hex .cyan{ color:#00ffff  ; }
 
 /*Add color rgb value*/
-
+#rgb .red{ color: rgb(255,0,0); }
+#rgb .green{ color: rgb(0,255,0 ); }
+#rgb .blue{ color: rgb(0,0,255 ); }
 
 /*Add color rgba value*/
 
