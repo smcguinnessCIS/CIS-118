@@ -21,7 +21,12 @@ body{
 .grey { color:grey  ; /*but the property "color" can't be "colour" */ }
 
 /*Add color hex value */
-
+#hex .red{ color: ; }
+#hex .green{ color: ; }
+#hex .blue{ color: ; }
+#hex .yellow{ color:  ; }
+#hex .magenta{ color:  ; }
+#hex .cyan{ color:  ; }
 
 /*Add color rgb value*/
 
