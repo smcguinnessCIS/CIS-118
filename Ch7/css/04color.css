@@ -37,9 +37,9 @@ body{
 
 
 /*Add color hsl value*/
-#hsl .red{ color: hsl(0, 100%, 25%); }
-#hsl .green{ color: hsl(120, 100%, 75%); }
-#hsl .blue{ color: hsl(240, 100%, 100%); }
+#hsl .red{ color: hsl(0, 100%, 50%); }
+#hsl .green{ color: hsl(120, 100%, 50%); }
+#hsl .blue{ color: hsl(240, 100%, 50%); }
 
 /*Add color hsla value*/
 
