@@ -42,6 +42,9 @@ footer {
 	text-transform: uppercase;
 	font-weight: bolder;
 }
+a {
+	color: yellow;
+}
 div {
  background-color: white;
   width: 600px;
