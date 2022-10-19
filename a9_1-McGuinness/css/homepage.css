@@ -54,3 +54,13 @@ li a:hover {
 	background-repeat: no-repeat;
 	background-position: center 50%;
 }
+.css a {
+	background-image: url(../Images/icon-css.png);
+	background-repeat: no-repeat;
+	background-position: center 50%;
+}
+.js a {
+	background-image: url(../Images/icon-js.png);
+	background-repeat: no-repeat;
+	background-position: center 50%;
+}
