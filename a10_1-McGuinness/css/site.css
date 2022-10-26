@@ -1,0 +1,68 @@
+* {
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+body {
+	background-color: #cccccc;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	background-image: url(../Images/bg_body.png);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: Georgia, serif;
+}
+p {
+	line-height: 1.25em;
+	margin-bottom: .625em;
+}
+li {
+	line-height: 1.25em;
+}
+blockquote {
+	font-size: 2.5em;
+	width: 16.5em;
+	margin: 0 auto;
+	padding: 10px 10px 10px 45px;
+	color: #777;
+	font-family: Georgia, serif;
+	font-style: oblique;
+	background-image: url(../Images/bigquote.png);
+	background-repeat: no-repeat;
+	background-position: left 8%;
+}
+blockquote footer {
+	display: block;
+	font-size: .4em;
+	color: #888;
+	text-align: right;
+}
+#nav {
+	background-color:#dddddd;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+#container {
+	width: 960px;
+	margin: 0 auto;
+}
+#header {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#header img {
+	border: 1px solid #000000;
+	background-color: #ffffff;
+	padding: 5px;
+}
+	a:link { color: #008b14;}
+
+	a:visited { color: #649a00;}
+		
+	a:hover { color: #00638b; }
+		
+	a:active { color: #008b14; }
+		
+	a:focus { color: #00638b; }
