@@ -1,0 +1,136 @@
+#container{
+	background-color: #EEE;
+}
+a:hover img{
+	background-color: #d1d1d1;
+}
+#header{
+	height: 150px;
+	background-color: #de0000;
+	padding: 0px 0px;
+	color: #EEE;
+	
+	background-image: url(../images/YinYang.png);
+	background-repeat: no-repeat;
+	background-position: 97% 25%;
+}
+#header img{
+	float: right;
+}
+#header a:link{
+	color: white;
+	text-decoration: none;
+}
+#header a:visited{
+	color: white;
+	text-decoration: none;
+}
+#header a:hover{
+	color: red;
+	text-decoration: underline;
+	background-color: #EEE;
+}
+#header a:active{
+	color: red;
+	text-decoration: underline;
+}
+#header h1{
+	padding: 0px 20px;
+	color: white;
+}
+h1{
+	font-size: 50px;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+body{
+	background-color: black;
+}
+#main h1{
+	text-align: center;
+	color: black;
+	text-shadow: 2px 2px 4px #de0000;
+}
+#main h2{
+	text-align: center;
+	color: black;
+	text-shadow: 2px 2px 3px #de0000;
+}
+p{
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	text-align: center;
+	padding: 0 20px;
+}
+.column{
+	float: left;
+	width: 50%;
+}
+.row:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+#footer{
+	height: 150px;
+	background-color: #737373;
+	padding: 10px 0;
+}
+table, th, td{
+	border: 1px solid black;
+	width: 100%;
+	text-align: center;
+	table-layout: fixed;
+}
+a:link{
+	color: black;
+	text-decoration: none;
+}
+a:visited{
+	color: black;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	text-decoration: underline;
+}
+a:active{
+	color: red;
+	text-decoration: underline;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.current span{
+	color: white;
+	text-decoration: none;
+	display: block;
+	padding: 14px 16px;
+	overflow: hidden;
+	background-color: #de0000;
+}
+@media only screen and (max-width: 771px) {
+	#header{
+		height: 150px;
+	}
+	.column{
+		width: 100%;
+	{
+}
